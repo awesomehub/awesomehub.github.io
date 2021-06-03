@@ -10,8 +10,8 @@
   Link: <https://fonts.gstatic.com>; rel=dns-prefetch
   Link: </styles.6c338164c934312747fe.css>; rel=preload; as=style
   Link: </runtime.064fb0f518d75457039a.js>; rel=preload; as=script
-  Link: </polyfills.278037ce53687399ca0e.js>; rel=preload; as=script
-  Link: </main.1973d10a2fb324d207e7.js>; rel=preload; as=script
+  Link: </polyfills.1d6d81c59cbb472f34e0.js>; rel=preload; as=script
+  Link: </main.79886557585e2eb8ecc2.js>; rel=preload; as=script
 
 /static/*
   Cache-Control: public, max-age=31536000, immutable
@@ -22,8 +22,8 @@
 /runtime.064fb0f518d75457039a.js
   Cache-Control: public, max-age=31536000, immutable
 
-/polyfills.278037ce53687399ca0e.js
+/polyfills.1d6d81c59cbb472f34e0.js
   Cache-Control: public, max-age=31536000, immutable
 
-/main.1973d10a2fb324d207e7.js
+/main.79886557585e2eb8ecc2.js
   Cache-Control: public, max-age=31536000, immutable
