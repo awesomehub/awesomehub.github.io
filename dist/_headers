@@ -11,7 +11,7 @@
   Link: </styles.6c338164c934312747fe.css>; rel=preload; as=style
   Link: </runtime.064fb0f518d75457039a.js>; rel=preload; as=script
   Link: </polyfills.278037ce53687399ca0e.js>; rel=preload; as=script
-  Link: </main.5e7c7c3c57f038770e3a.js>; rel=preload; as=script
+  Link: </main.1973d10a2fb324d207e7.js>; rel=preload; as=script
 
 /static/*
   Cache-Control: public, max-age=31536000, immutable
@@ -25,5 +25,5 @@
 /polyfills.278037ce53687399ca0e.js
   Cache-Control: public, max-age=31536000, immutable
 
-/main.5e7c7c3c57f038770e3a.js
+/main.1973d10a2fb324d207e7.js
   Cache-Control: public, max-age=31536000, immutable
