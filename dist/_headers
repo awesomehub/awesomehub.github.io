@@ -4,7 +4,18 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
 
-/index.html
+/
+  Cache-Control: public, max-age=0, must-revalidate
+  Link: <https://awesomehub.github.io>; rel=preconnect
+  Link: <https://www.googletagmanager.com>; rel=preconnect
+  Link: <https://www.google-analytics.com>; rel=preconnect
+  Link: <https://fonts.gstatic.com>; rel=preconnect
+  Link: </styles.58c03fff5e4cea15.css>; rel=preload; as=style
+  Link: </runtime.7ceb840e79618587.js>; rel=preload; as=script
+  Link: </polyfills.ec025bbcabb8b3d3.js>; rel=preload; as=script
+  Link: </main.38578ac15caa00df.js>; rel=preload; as=script
+
+/list/*
   Cache-Control: public, max-age=0, must-revalidate
   Link: <https://awesomehub.github.io>; rel=preconnect
   Link: <https://www.googletagmanager.com>; rel=preconnect
