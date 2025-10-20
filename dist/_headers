@@ -4,26 +4,28 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
 
-/
+/index.html
   Cache-Control: public, max-age=0, must-revalidate
+  Link: <https://awesomehub.github.io>; rel=preconnect
+  Link: <https://www.googletagmanager.com>; rel=preconnect
+  Link: <https://www.google-analytics.com>; rel=preconnect
   Link: <https://fonts.gstatic.com>; rel=preconnect
-  Link: <https://fonts.gstatic.com>; rel=dns-prefetch
-  Link: </styles.32adb0be05dc120a.css>; rel=preload; as=style
+  Link: </styles.58c03fff5e4cea15.css>; rel=preload; as=style
   Link: </runtime.7ceb840e79618587.js>; rel=preload; as=script
-  Link: </polyfills.11dbee3c1c48516f.js>; rel=preload; as=script
-  Link: </main.77a1f8a80130ba05.js>; rel=preload; as=script
+  Link: </polyfills.ec025bbcabb8b3d3.js>; rel=preload; as=script
+  Link: </main.38578ac15caa00df.js>; rel=preload; as=script
 
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 
-/styles.32adb0be05dc120a.css
+/styles.58c03fff5e4cea15.css
   Cache-Control: public, max-age=31536000, immutable
 
 /runtime.7ceb840e79618587.js
   Cache-Control: public, max-age=31536000, immutable
 
-/polyfills.11dbee3c1c48516f.js
+/polyfills.ec025bbcabb8b3d3.js
   Cache-Control: public, max-age=31536000, immutable
 
-/main.77a1f8a80130ba05.js
+/main.38578ac15caa00df.js
   Cache-Control: public, max-age=31536000, immutable
